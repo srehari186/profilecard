@@ -4,7 +4,6 @@
     background-color: rgb(229, 237, 255);
     margin-top: 200px;
     border-radius: 20px;
-
 }
 .dess {
     height: 20px;
@@ -15,7 +14,6 @@
     background-color: rgb(255, 0, 0);
     font-weight: bold;
     border: 0 ;
-    
 }
 .dess:hover {
     transform: scale(1.1);
